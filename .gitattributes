@@ -1,1 +1,2 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
+aja.txt filter=lfs diff=lfs merge=lfs -text
